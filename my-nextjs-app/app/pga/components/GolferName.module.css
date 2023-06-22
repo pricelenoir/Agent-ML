@@ -1,0 +1,47 @@
+.golfer-name-container {
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .player-headshot-container {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid #c0c0c0;
+    margin-right: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .player-headshot {
+    height: 56px;
+    width: 56px;
+    border-radius: 50%;
+  }
+
+  .player-name {
+    height: 60px;
+    width: 350px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+
+  .player-odds-container {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+  }
+  .player-odds,
+  .player-exp-odds {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 2px solid #c0c0c0;
+    margin-left: 5px;
+  }

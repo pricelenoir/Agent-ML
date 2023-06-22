@@ -1,0 +1,157 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  background-color: rgba(192, 192, 192);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.left-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.rectangle-toggle {
+  width: 120px;
+  height: 100%;
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rectangle-logo {
+  width: 300px;
+  height: 100%;
+  background-color: orange;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 40px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.triangle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin-left: auto;
+  margin-right: 0;
+  position: relative;
+}
+
+.triangle-layer-1 {
+  width: 0;
+  height: 0;
+  border-bottom: 80px solid transparent;
+  border-left: 80px solid orange;
+  z-index: 2;
+}
+
+.triangle-layer-2 {
+  width: 0;
+  height: 0;
+  border-bottom: 80px solid transparent;
+  border-left: 80px solid rgb(248, 192, 86);
+  left: 30px;
+  position: absolute;
+  z-index: 1;
+}
+
+.rectangle-fill {
+  width: 30px;
+  height: 100%;
+  background-color: rgb(248, 192, 86); /* Changed color to green */
+  position: absolute;
+  z-index: 0;
+  right: 50px;
+}
+
+.rectangle-fill-l {
+  width: 30px;
+  height: 100%;
+  background-color: rgb(248, 192, 86); /* Changed color to green */
+  position: absolute;
+  z-index: 0;
+  left: 50px;
+}
+
+/* Will contain right trapezoid element and all features inside */
+.right-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rectangle-logo-right {
+  width: 300px;
+  height: 100%;
+  background-color: orange;
+  display: flex-end;
+  align-items: center;
+}
+
+.toggle-logo {
+  height: 80px;
+  width: 80px;
+  padding: 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-logo:hover {
+  background-color: rgb(248, 192, 86);
+}
+
+.header-logos {
+  height: 80px;
+  width: 80px;
+  margin-left: 15px;
+  padding: 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-logos:hover {
+  background-color: rgb(248, 192, 86);
+}
+
+.triangle-layer-1-l {
+  width: 0;
+  height: 0;
+  border-top: 80px solid transparent;
+  border-right: 80px solid orange;
+  z-index: 2;
+}
+
+.triangle-layer-2-l {
+  width: 0;
+  height: 0;
+  border-top: 80px solid transparent;
+  border-right: 80px solid rgb(248, 192, 86);
+  position: absolute;
+  z-index: 1;
+  right: 30px;
+}

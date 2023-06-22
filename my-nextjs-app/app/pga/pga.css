@@ -1,0 +1,7 @@
+.pga-content {
+    padding: 120px 60px 0 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
