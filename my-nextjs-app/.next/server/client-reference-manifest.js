@@ -285,14 +285,23 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/layout": [
-      "static/css/app/layout.css"
-    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/page": [
       "static/css/app/pga/page.css"
     ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/page": [
+      "static/css/app/nba/page.css"
+    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/page": [
       "static/css/app/page.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/page": [
+      "static/css/app/nfl/page.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/data/page": [
+      "static/css/app/data/page.css"
     ]
   },
   "clientModules": {
@@ -968,6 +977,34 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/pga.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/pga/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Golfer.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/pga/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/GolferName.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/pga/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Tournament.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/pga/page.css"
+      ]
+    },
     "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/globals.css#": {
       "id": "null",
       "name": "default",
@@ -1062,32 +1099,39 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/pga.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/nba.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
+        "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Golfer.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAContent.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
+        "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/GolferName.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBADate.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
+        "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Tournament.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAGame.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
+        "static/css/app/nba/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAHeader.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nba/page.css"
       ]
     },
     "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/home.css#": {
@@ -1116,6 +1160,48 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/nfl.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLContent.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLDate.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLGame.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLHeader.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/data/data.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/data/page.css"
       ]
     }
   }

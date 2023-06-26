@@ -1,22 +1,40 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/pga/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/pga/page.css",
       "static/chunks/app/pga/page.js"
     ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/nba/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/nba/page.css",
+      "static/chunks/app/nba/page.js"
+    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/page.css",
       "static/chunks/app/page.js"
+    ],
+    "/nfl/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/nfl/page.css",
+      "static/chunks/app/nfl/page.js"
+    ],
+    "/data/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/data/page.css",
+      "static/chunks/app/data/page.js"
     ]
   }
 }
