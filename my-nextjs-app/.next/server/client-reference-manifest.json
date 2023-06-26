@@ -285,27 +285,21 @@
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/page": [
-      "static/css/app/pga/page.css"
-    ],
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/layout": [
-      "static/css/app/layout.css"
-    ],
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/page": [
-      "static/css/app/nba/page.css"
-    ],
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/page": [
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/page": [
       "static/css/app/page.css"
     ],
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/page": [
-      "static/css/app/nfl/page.css"
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/layout": [
+      "static/css/app/layout.css"
     ],
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/data/page": [
-      "static/css/app/data/page.css"
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/page": [
+      "static/css/app/nba/page.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/page": [
+      "static/css/app/pga/page.css"
     ]
   },
   "clientModules": {
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/app-router.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -313,7 +307,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -321,7 +315,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -329,7 +323,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -337,7 +331,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -345,7 +339,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -353,15 +347,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -369,7 +355,15 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -377,7 +371,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -385,7 +379,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -393,7 +387,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -401,7 +395,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -409,7 +403,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -417,7 +411,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -425,7 +419,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -433,15 +427,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -449,7 +435,15 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -457,7 +451,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -465,7 +459,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -473,7 +467,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -481,7 +475,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -489,7 +483,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -497,7 +491,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -505,7 +499,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -513,15 +507,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -529,7 +515,15 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -537,7 +531,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -545,7 +539,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -553,7 +547,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -561,7 +555,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -569,7 +563,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -577,7 +571,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -585,7 +579,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -593,7 +587,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -601,7 +595,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -609,7 +603,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -617,7 +611,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -625,7 +619,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -633,7 +627,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -641,7 +635,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -649,7 +643,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -657,7 +651,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -665,7 +659,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -673,7 +667,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -681,7 +675,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -689,7 +683,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -697,7 +691,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -705,7 +699,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -713,7 +707,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -721,7 +715,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -729,7 +723,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -737,15 +731,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -753,7 +739,15 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -761,7 +755,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -769,7 +763,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -777,7 +771,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -785,7 +779,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -793,7 +787,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -801,15 +795,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -817,7 +803,15 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -825,7 +819,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -833,7 +827,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -841,7 +835,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -849,7 +843,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -857,7 +851,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -865,7 +859,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -873,7 +867,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -881,7 +875,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -889,7 +883,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -897,7 +891,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -905,7 +899,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -913,7 +907,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -921,7 +915,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -929,7 +923,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -937,7 +931,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -945,7 +939,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -953,7 +947,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -961,7 +955,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -969,7 +963,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -977,57 +971,57 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/pga.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Golfer.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/home.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/pga/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/GolferName.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/pga/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/pga/components/Tournament.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/pga/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css",
         "static/css/app/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/Header.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/BottomSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/MiddleSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/TopSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/Sidebar.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Sidebar.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/Header.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.js": {
       "id": "(app-client)/./app/components/Header.js",
       "name": "*",
       "chunks": [
@@ -1035,7 +1029,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/Header.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.js#": {
       "id": "(app-client)/./app/components/Header.js",
       "name": "",
       "chunks": [
@@ -1043,7 +1037,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/Header.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.js#default": {
       "id": "(app-client)/./app/components/Header.js",
       "name": "default",
       "chunks": [
@@ -1051,7 +1045,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/link.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1059,7 +1053,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/link.js": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1067,7 +1061,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/link.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1075,7 +1069,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/link.js#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1083,7 +1077,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/client/link.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1091,7 +1085,7 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/node_modules/next/dist/esm/client/link.js#default": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1099,109 +1093,67 @@
       ],
       "async": false
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/nba.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/nba.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAContent.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBAContent.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBADate.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBADate.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAGame.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBAGame.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nba/components/NBAHeader.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBAHeader.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/nba/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/home.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/pga.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
+        "static/css/app/pga/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/BottomSection.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Golfer.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
+        "static/css/app/pga/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/MiddleSection.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/GolferName.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
+        "static/css/app/pga/page.css"
       ]
     },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/components/TopSection.module.css#": {
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Tournament.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/nfl.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/nfl/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLContent.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/nfl/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLDate.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/nfl/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLGame.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/nfl/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/nfl/components/NFLHeader.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/nfl/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML-v2/my-nextjs-app/app/data/data.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/data/page.css"
+        "static/css/app/pga/page.css"
       ]
     }
   }
