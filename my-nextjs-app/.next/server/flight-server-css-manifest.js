@@ -19,11 +19,21 @@ self.__RSC_CSS_MANIFEST={
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBAGame.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/components/NBADate.module.css"
     ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/page.js": [
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/nfl.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLHeader.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLContent.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLGame.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLDate.module.css"
+    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/page.js": [
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/pga.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Tournament.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Golfer.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/GolferName.module.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/page.js": [
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/data.css"
     ]
   },
   "cssModules": {
@@ -46,11 +56,27 @@ self.__RSC_CSS_MANIFEST={
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Sidebar.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.module.css"
     ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/page": [
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/nfl.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLHeader.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLGame.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLDate.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLContent.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/globals.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Sidebar.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.module.css"
+    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/page": [
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/pga.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Tournament.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/GolferName.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/components/Golfer.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/globals.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Sidebar.module.css",
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.module.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/page": [
+      "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/data.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/globals.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Sidebar.module.css",
       "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/Header.module.css"

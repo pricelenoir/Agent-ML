@@ -294,8 +294,14 @@
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/page": [
       "static/css/app/nba/page.css"
     ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/page": [
+      "static/css/app/nfl/page.css"
+    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/page": [
       "static/css/app/pga/page.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/page": [
+      "static/css/app/data/page.css"
     ]
   },
   "clientModules": {
@@ -1128,6 +1134,41 @@
         "static/css/app/nba/page.css"
       ]
     },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/nfl.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLContent.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLDate.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLGame.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nfl/components/NFLHeader.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/nfl/page.css"
+      ]
+    },
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/pga/pga.css#": {
       "id": "null",
       "name": "default",
@@ -1154,6 +1195,13 @@
       "name": "default",
       "chunks": [
         "static/css/app/pga/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/data/data.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/data/page.css"
       ]
     }
   }
