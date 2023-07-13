@@ -1,9 +1,10 @@
 ## About
 
-This is a sports-betting web application designed to discover descrepancies and opportunity in daily betting lines.
+This is a sports-betting web application designed to discover discrepancies and opportunity in daily betting lines.
 Our model tracks data over several years of major-league sports to deliver the most accurate predictions.
 
-For each daily match, Agent ML will provide an expected score that can be compared to betting lines from across the industry.
+For each daily match, Agent ML will provide an expected score that 
+can be compared to betting lines from across the industry.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
