@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/pga/page": "app/pga/page.js",
-  "/nfl/page": "app/nfl/page.js",
-  "/nba/page": "app/nba/page.js",
-  "/data/page": "app/data/page.js"
-}
