@@ -285,11 +285,11 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/page": [
-      "static/css/app/page.css"
-    ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/layout": [
       "static/css/app/layout.css"
+    ],
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/page": [
+      "static/css/app/page.css"
     ],
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/page": [
       "static/css/app/nba/page.css"
@@ -981,35 +981,7 @@ self.__RSC_MANIFEST={
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css",
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/home.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/BottomSection.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/MiddleSection.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
-      ]
-    },
-    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/TopSection.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
+        "static/css/app/layout.css",
         "static/css/app/page.css"
       ]
     },
@@ -1098,6 +1070,34 @@ self.__RSC_MANIFEST={
         "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/home.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/BottomSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/MiddleSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/components/TopSection.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
     },
     "/Users/pricelenoir/Documents/GitHub/Agent-ML/my-nextjs-app/app/nba/nba.css#": {
       "id": "null",
