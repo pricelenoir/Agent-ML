@@ -8,6 +8,14 @@ For each daily match, Agent ML will determine an expected score, providing an in
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Python Dependencies
+
+Using pip to install:
+
+```bash
+pip install psycopg2 torch beautifulsoup4 playwright pandas
+```
+
 ## Getting Started
 
 First, run the development server:
